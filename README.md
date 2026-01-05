@@ -1,7 +1,7 @@
 ### 💻 Olá, sou Geovanna Vitória, desenvolvedora Front-End!
 #### Eu tenho repositórios com os projetos de estudo e os meus projetos especiais estão em repositórios separados :)
 • Usando github desde **2024**.
-<div style="margin: 0 auto;">
+<!-- <div style="margin: 0 auto;">
   <a href="https://github.com/GeovannaVitoria"></a>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannavitoria&show_icons=false&theme=react">
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannavitoria&layout=compact&theme=react">
@@ -14,7 +14,7 @@
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+</div> -->
 
 ##
 • Minhas **redes sociais**:
